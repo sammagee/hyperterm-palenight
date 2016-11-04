@@ -38,5 +38,5 @@ exports.decorateConfig = config => {
 				border-left-width: 2px;
 			}
 		`,
-	}
+	})
 }
