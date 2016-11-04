@@ -30,13 +30,5 @@ exports.decorateConfig = config => {
 		backgroundColor,
 		borderColor,
 		cursorColor,
-		colors,
-		termCSS: `
-			${config.termCSS || ''}
-			.cursor-node {
-				mix-blend-mode: difference;
-				border-left-width: 2px;
-			}
-		`,
-	})
+		colors
 }
