@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-palenight",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hyper theme based on Material Palenight",
   "main": "index.js",
   "repository": "https://github.com/sammagee/hyperterm-palenight.git",
