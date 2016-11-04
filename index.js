@@ -12,7 +12,7 @@ const colors = {
 	blue         : '#82AAFF',
 	magenta      : '#C792EA',
 	cyan         : '#89DDFF',
-	white        : foregroundColor,
+	white        : '#d0d0d0',
 	lightBlack   : '#434758',
 	lightRed     : '#FF8B92',
 	lightGreen   : '#DDFFA7',
@@ -31,4 +31,5 @@ exports.decorateConfig = config => {
 		borderColor,
 		cursorColor,
 		colors
+	})
 }
