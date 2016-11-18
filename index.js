@@ -7,7 +7,7 @@ const borderColor = backgroundColor
 const colors = {
 	black        : backgroundColor,
 	red          : '#F07178',
-	green  		 : '#C3E88D',
+	green  	     : '#C3E88D',
 	yellow       : '#FFCB6B',
 	blue         : '#82AAFF',
 	magenta      : '#C792EA',
